@@ -194,7 +194,7 @@ public class burgerpage
 	
 	public void checkout()
 	{
-	checkout.click();
+	checkout1.click();
 	}
 
 
